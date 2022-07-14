@@ -1,0 +1,16 @@
+bin\Debug\window.exe
+bin\Debug\window.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\window.Properties.Resources.resources
+obj\Debug\window.csproj.GenerateResource.Cache
+obj\Debug\window.exe
+obj\Debug\window.pdb
+obj\Debug\window.Form1.resources
+bin\Release\window.exe
+bin\Release\window.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\window.Form1.resources
+obj\Release\window.Properties.Resources.resources
+obj\Release\window.csproj.GenerateResource.Cache
+obj\Release\window.exe
+obj\Release\window.pdb
