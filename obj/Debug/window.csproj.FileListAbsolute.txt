@@ -1,0 +1,9 @@
+C:\Users\micha\Source\Repos\catwindow\obj\Debug\window.csprojAssemblyReference.cache
+C:\Users\micha\Source\Repos\catwindow\obj\Debug\window.Form1.resources
+C:\Users\micha\Source\Repos\catwindow\obj\Debug\window.Properties.Resources.resources
+C:\Users\micha\Source\Repos\catwindow\obj\Debug\window.csproj.GenerateResource.cache
+C:\Users\micha\Source\Repos\catwindow\obj\Debug\window.csproj.CoreCompileInputs.cache
+C:\Users\micha\Source\Repos\catwindow\obj\Debug\window.exe
+C:\Users\micha\Source\Repos\catwindow\obj\Debug\window.pdb
+C:\Users\micha\Source\Repos\catwindow\bin\Debug\window.exe
+C:\Users\micha\Source\Repos\catwindow\bin\Debug\window.pdb

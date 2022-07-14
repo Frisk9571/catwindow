@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
+using System.Net;
 
 namespace window
 {
@@ -27,8 +28,13 @@ namespace window
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Show();
+            WebClient client = new WebClient();
+            client.DownloadFile("https://thiscatdoesnotexist.com/", "cat.jpg");
+            pictureBox1.ImageLocation = "cat.jpg";
+            pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox1.Refresh();
             pictureBox1.Show();
+            label1.Show();
         }
     }
 }
